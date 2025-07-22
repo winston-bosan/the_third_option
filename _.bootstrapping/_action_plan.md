@@ -1,0 +1,18 @@
+# Get ourselves near a professional and a lot of machine tools
+Who are the professionals?
+- university professors
+-  engineers
+-  machinists
+- pro-sumer grade hobbyests (`this old tony` and `adam savage`)
+
+Where are the machines?
+- machine shops
+- university laboratories
+- professional homes/ garages
+
+University has a rather high entry barrier so I think the best way through is to get to the hobbyists professionals in a as close to home setting as possible.
+This also means we should get to a machine shop with as few employees possible. Because if we don't then we have to ask the owner to make a difficult decision.
+To make money or to help us.
+
+## List of professionals
+#TODO: SEE OTHER PR
